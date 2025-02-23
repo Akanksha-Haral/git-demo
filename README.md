@@ -1,3 +1,3 @@
 # git-demo
 this is my first repo.
-auther :- akanksha haral
+Author :- akanksha haral
